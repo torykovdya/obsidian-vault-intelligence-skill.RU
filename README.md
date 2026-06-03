@@ -105,8 +105,7 @@ obsidian-vault-intelligence/
 │   ├── competency-map.md             ← шаблон карты компетенций
 │   └── opportunity-log.md            ← шаблон лога возможностей
 │
-└── assets/
-    └── vault-structure-diagram.png   ← схема структуры vault
+
 ```
 
 ---
