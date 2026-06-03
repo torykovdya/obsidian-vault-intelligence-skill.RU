@@ -1,4 +1,4 @@
-# obsidian-vault-intelligence# 🧠 Obsidian Vault Intelligence — Claude Skill
+🧠 Obsidian Vault Intelligence — Claude Skill
 
 > *Превращает ваши заметки в интеллектуальный капитал. Построено на методе Zettelkasten Никласа Луманна, настроено для AI-энтузиастов, создателей и автоматизаторов.*
 
