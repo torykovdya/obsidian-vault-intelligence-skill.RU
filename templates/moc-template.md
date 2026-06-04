@@ -58,7 +58,14 @@ last-updated: {{date:YYYY-MM-DD}}
 ---
 
 ## Глубина кластера
-Заметок по теме: `=length(filter(this.file.inlinks, (f) => contains(f.path, "Permanent")))`
+Заметок по теме: (обновляй вручную при каждом редактировании MOC)
 Последнее обновление: {{date:YYYY-MM-DD}}
+
+<!-- Если используешь Dataview plugin, можно добавить динамический счётчик:
+```dataview
+LIST FROM [[]] WHERE contains(file.path, "Permanent")
+```
+Замени [[]] на имя этого MOC-файла. -->
+
 
 Tags: #moc #{{topic-tag}}
