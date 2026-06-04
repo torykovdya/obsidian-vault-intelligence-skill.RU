@@ -42,7 +42,9 @@
 
 ### 1. Установка скилла
 
-Скачайте файл `obsidian-vault-intelligence.skill` из [Releases](../../releases) и установите в Claude.
+Скачайте файл `skill/SKILL.md` из этого репозитория. Это главный файл скилла — его содержимое нужно вставить в поле System Prompt или загрузить как скилл в интерфейсе Claude (если ваша версия поддерживает скиллы).
+
+**Быстрый способ:** скопируйте содержимое `skill/SKILL.md` и вставьте в начало каждого разговора с Claude о ваших заметках.
 
 ### 2. Первый анализ (5 минут)
 
@@ -105,7 +107,8 @@ obsidian-vault-intelligence/
 │   ├── competency-map.md             ← шаблон карты компетенций
 │   └── opportunity-log.md            ← шаблон лога возможностей
 │
-
+└── assets/
+    └── vault-structure-diagram.png   ← схема структуры vault
 ```
 
 ---
@@ -154,3 +157,4 @@ MIT — используйте, модифицируйте, распростра
   Построено на идеях <a href="https://niklas-luhmann-archiv.de/">Никласа Луманна</a> и методологии <a href="https://obsidian.md">Obsidian</a><br>
   Вдохновлено книгой <em>How To Take Smart Notes</em> — Зонке Аренс
 </p>
+
