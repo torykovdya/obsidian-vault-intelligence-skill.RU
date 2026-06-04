@@ -85,3 +85,4 @@ Look for these patterns → suggest automation:
 - "It takes me X hours to research..." → AI-assisted research pipeline
 - "I aggregate data from..." → automated dashboard
 - "I get asked this question all the time..." → chatbot / FAQ agent
+reator-taxonomy.md…]()
