@@ -398,4 +398,3 @@ From Ahrens — always apply these when evaluating or writing notes:
 | `references/opportunity-patterns.md` | Phase 3 (Opportunity Intelligence) + Phase 4 (Trajectory) |
 
 Always read the relevant reference file **before** generating that section's output — not after.
-ILL.md…]()
